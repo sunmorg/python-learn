@@ -15,5 +15,22 @@
 # else:
 #     print("you have tried too many times...")
 
-for i in range(0,10,4):
-    print("loop...",i)
+# for i in range(0,10,4):
+#     print("loop...",i)
+
+
+#continue 跳出本次循环 进入下次循环  break 结束整个循环
+# for i in range(0,10):
+#     if i < 3:
+#         print("loop...",i)
+#     else:
+#         continue
+#     print("continue.......")
+
+
+for i in range(10):
+    print(".......",i)
+    for j in range(10):
+        print(j)
+        if j > 5:
+            break
