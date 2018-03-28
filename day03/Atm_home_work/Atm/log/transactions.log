@@ -1,0 +1,15 @@
+2017-01-25 21:33:43,281 - transaction - INFO - account:1000   action:pay    amount:10000.0   interest:0.0
+2017-01-25 22:16:26,609 - transaction - INFO - account:1000   action:pay    amount:100.0   interest:0.0
+2017-01-25 22:16:52,347 - transaction - INFO - account:1000   action:pay    amount:100.0   interest:0.0
+2017-01-26 21:47:42,372 - transaction - INFO - account:1000   action:repay    amount:100.0   interest:0.0
+2017-01-26 21:51:13,819 - transaction - INFO - account:1000   action:repay    amount:100.0   interest:0.0
+2017-01-26 21:51:24,608 - transaction - INFO - account:1000   action:withdraw    amount:500.0   interest:25.0
+2017-01-26 21:53:16,352 - transaction - INFO - account:1000   action:withdraw    amount:200.0   interest:10.0
+2017-01-28 09:49:30,934 - transaction - INFO - account:1000   action:repay    amount:200.0   interest:0.0
+2017-01-28 09:49:44,162 - transaction - INFO - account:1000   action:withdraw    amount:200.0   interest:10.0
+2017-01-28 09:50:06,723 - transaction - INFO - account:1000   action:transfer    amount:200.0   interest:10.0
+2017-01-28 09:50:06,723 - transaction - INFO - account:1001   action:receive    amount:200.0   interest:0.0
+2017-01-28 09:53:45,354 - transaction - INFO - account:1000   action:save    amount:400.0   interest:0.0
+2017-01-28 10:31:52,106 - transaction - INFO - account:1000   action:pay    amount:1000.0   interest:0.0
+2017-02-04 20:18:58,372 - transaction - INFO - account:1000   action:pay    amount:300.0   interest:0.0
+2017-02-07 11:01:51,363 - transaction - INFO - account:1000   action:pay    amount:100.0   interest:0.0

@@ -1,0 +1,10 @@
+2017-01-17 17:15:39,199 - shopping - INFO - account:test action:shopping product_number:2 goods:Tea cost:622
+2017-01-17 17:22:13,163 - shopping - INFO - account:test action:shopping product_number:1 goods:Coffee cost:30
+2017-01-24 21:55:50,796 - shopping - INFO - account:test action:shopping product_number:2 goods:Milk cost:118
+2017-01-25 00:05:46,534 - shopping - INFO - account:test action:shopping product_number:1 goods:Coffee cost:30
+2017-01-25 00:06:07,089 - shopping - INFO - account:test action:shopping product_number:1 goods:Coffee cost:30
+2017-01-25 00:36:53,038 - shopping - INFO - account:test action:shopping product_number:1 goods:Coffee cost:30
+2017-01-25 21:33:07,174 - shopping - INFO - account:test action:shopping product_number:1 goods:Coffee cost:30
+2017-01-28 10:32:07,465 - shopping - INFO - account:test action:shopping product_number:2 goods:Coffee cost:60
+2017-01-28 10:32:20,656 - shopping - INFO - account:test action:shopping product_number:1 goods:Iphone7 cost:6188
+2017-02-04 20:18:37,377 - shopping - INFO - account:test action:shopping product_number:3 goods:Tea cost:933
